@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "リモコン-オリジナル ver.-",
+  "base_artist": "Wonderful★opportunity!",
+  "createdAt": "2026-03-05T16:46:47.775845Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "リモコン-オリジナル ver.-",
+      "artist": "Wonderful★opportunity!",
+      "has_synced": true,
+      "path": "select/01_リモコン-オリジナル_ver.-_Wonderful★opportunity!.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "リモコン -オリジナル ver.- (Instrumental)",
+      "artist": "WONDERFUL★OPPORTUNITY!",
+      "has_synced": true,
+      "path": "select/02_リモコン_-オリジナル_ver.-_(Instrumental)_WONDERFUL★OPPORTUNITY!.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "リモコン -オリジナル ver.- (Instrumental)",
+      "artist": "JesusP",
+      "has_synced": false,
+      "path": "select/03_リモコン_-オリジナル_ver.-_(Instrumental)_JesusP.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "リモコン -オリジナル ver.-",
+      "artist": "JesusP",
+      "has_synced": false,
+      "path": "select/04_リモコン_-オリジナル_ver.-_JesusP.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "リモコン -オリジナル ver.-",
+      "artist": "JesusP feat. Kagamine, Rin, Kagamine, Len",
+      "has_synced": false,
+      "path": "select/05_リモコン_-オリジナル_ver.-_JesusP_feat._Kagamine,_Rin,_Kagamine,_Len.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "リモコン-オリジナル ver.- (feat. Kagamine Rin & Kagamine Len)",
+      "artist": "Wonderfulopportunity",
+      "has_synced": false,
+      "path": "select/06_リモコン-オリジナル_ver.-_(feat._Kagamine_Rin_&_Kagamine_Len)_Wonderfulopportunity.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "リモコン -オリジナル ver.-",
+      "artist": "WONDERFUL★OPPORTUNITY!",
+      "has_synced": true,
+      "path": "select/07_リモコン_-オリジナル_ver.-_WONDERFUL★OPPORTUNITY!.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "リモコン-オリジナル ver.-",
+      "artist": "Wonderful★opportunity!",
+      "has_synced": false,
+      "path": "select/pl_01_リモコン-オリジナル_ver.-_Wonderful★opportunity!.txt"
+    }
+  ]
+}
